@@ -30,4 +30,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/vahidkhorasani//"><img src="https://img.shields.io/badge/-Vahid%20Khorasani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vh.khorasani@gmail.com"><img src="https://img.shields.io/badge/-vh.khorasani@gmail.com-red?style=flat&logo=maildotru&logoColor=black"/></a>
+<a href="mailto:vh.khorasani@gmail.com"><img src="https://img.shields.io/badge/-vh.khorasani@gmail.com-blue?style=flat&logo=maildotru&logoColor=white"/></a>
